@@ -21,4 +21,4 @@ const reset = async () => {
 }
 
 
-get();
+// get();
